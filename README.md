@@ -1,8 +1,8 @@
 - 👋 Hi, I’m [@awesomecosmos](https://github.com/awesomecosmos "My GitHub Repositories"), aka Aayushi Verma.
-- 👀 I’m an MSc student in observational planetary astronomy.
-- 🌱 I’m currently learning more about astronomical programming.
-- 💞️ I’m looking to collaborate on my [NEOExchange-Obs-Planner](https://github.com/awesomecosmos/NEOExchange-Observations-Planner "my repo") code.
-- 📫 How to reach me: email (aayushi_verma@hotmail.com), Twitter [@awesomecosmos1](https://twitter.com/awesomecosmos1 "my Twitter!"), website (https://www.aayushiverma.com/).
+- 👀 I'm transitioning into Data Science after earning my BSc with Honours in Astronomy.
+- 🌱 I’m currently learning more about data science and machine learning.
+- 💞️ Do you have any opportunities for me in data science?
+- 📫 How to reach me: email (theawesomecosmos@gmail.com), Twitter [@awesomecosmos1](https://twitter.com/awesomecosmos1 "my Twitter!"), website (https://www.aayushiverma.com/).
 - Check out my CV on my personal website: https://www.aayushiverma.com/myresearch/
 
 <!---
