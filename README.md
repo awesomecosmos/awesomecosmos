@@ -2,8 +2,8 @@
 - 👀 I'm transitioning into Data Science after earning my BSc with Honours in Astronomy.
 - 🌱 I’m currently learning more about data science and machine learning.
 - 💞️ Do you have any opportunities for me in data science?
-- 📫 How to reach me: email (theawesomecosmos@gmail.com), Twitter [@awesomecosmos1](https://twitter.com/awesomecosmos1 "my Twitter!"), website (https://www.aayushiverma.com/).
-- Check out my CV on my personal website: https://www.aayushiverma.com/myresearch/
+- 📫 How to reach me: email me at theawesomecosmos@gmail.com.
+- Check out my [CV](https://awesomecosmos.github.io/cv/) on my [personal website](https://awesomecosmos.github.io/). 
 
 <!---
 awesomecosmos/awesomecosmos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
