@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@awesomecosmos](https://github.com/awesomecosmos "My GitHub Repositories"), aka Aayushi Verma.
-- 👀 I'm transitioning into Data Science after earning my BSc with Honours in Astronomy.
+- 👀 I'm transitioning into Data Science after earning my BSc with Honours in Astronomy from the University of Canterbury. I am currently a grad student at Pace Unicersity working towards my MS in Data Science.
 - 🌱 I’m currently learning more about data science and machine learning.
 - 💞️ Do you have any opportunities for me in data science?
 - 📫 How to reach me: email me at theawesomecosmos@gmail.com.
