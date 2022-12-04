@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,vscode,git,github,mysql,postgres,sqlite,latex,bash,stackoverflow,regex,matlab)](https://skillicons.dev)
 
-![awesomecosmos's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomecosmos&count_private=true&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awesomecosmos&theme=midnight-purple&layout=compact)
+![awesomecosmos's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomecosmos&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awesomecosmos&theme=midnight-purple&layout=compact&hide=jupyter%20notebook,html)
