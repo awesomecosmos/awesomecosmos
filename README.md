@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 
 ![awesomecosmos's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomecosmos&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awesomecosmos&theme=midnight-purple&layout=compact&hide=jupyter%20notebook,html)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/awesomecosmos/repos?time_range=one_year&include_private=True&theme=dark)](https://githubtrends.io)
