@@ -6,7 +6,7 @@
 - 💞️ I have previously earned my BSc with Honours in Astronomy from the University of Canterbury. Check out my [senior thesis project](https://gist.github.com/awesomecosmos/b19831e6abafee7909ef276701d3f599)!
 - 📫 Check out my [CV](https://github.com/awesomecosmos/aayushi-verma-cv), my [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushi-verma), and my [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UClS-R630xWKrukXSDTypAVg), where I often do code walk-throughs. 
 
-## 💻 Tech Skills:
+## 💻 Tech Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	
@@ -27,7 +27,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=awesomecosmos&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=awesomecosmos&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awesomecosmos&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,html)
