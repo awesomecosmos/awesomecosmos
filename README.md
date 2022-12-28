@@ -4,7 +4,7 @@
 - 🌱 I work full-time as a Research Data Scientist!
 - 👀 I'm also currently a grad student at Pace University in the MS in Data Science program. Check out my [class projects](https://gist.github.com/awesomecosmos/03b441ac1663f24621138b027b584daa)!
 - 💞️ I have earned my BSc with Honours in Astronomy from the University of Canterbury. Check out my [senior thesis project](https://gist.github.com/awesomecosmos/b19831e6abafee7909ef276701d3f599)!
-- 📫 Check out my [CV](https://github.com/awesomecosmos/aayushi-verma-cv), my [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushi-verma), and my [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UClS-R630xWKrukXSDTypAVg), where I often do code walk-throughs. 
+- 📫 Email me at theawesomecosmos@gmail.com, or check out my [CV](https://github.com/awesomecosmos/aayushi-verma-cv), my [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushi-verma), and my [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UClS-R630xWKrukXSDTypAVg), where I often do code walk-throughs. 
 
 ## 💻 Tech Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
