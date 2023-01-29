@@ -1,12 +1,23 @@
 # Hi! I'm Aayushi Verma!
 
-- 👋 Hi, I’m [@awesomecosmos](https://github.com/awesomecosmos "My GitHub Repositories"), aka Aayushi Verma.
-- 🌱 I work full-time as a Research Data Scientist!
-- 👀 I'm also currently a grad student at Pace University in the MS in Data Science program. Check out my [class projects](https://gist.github.com/awesomecosmos/03b441ac1663f24621138b027b584daa)!
-- 💞️ I have earned my BSc with Honours in Astronomy from the University of Canterbury. Check out my [senior thesis project](https://gist.github.com/awesomecosmos/b19831e6abafee7909ef276701d3f599)!
-- 📫 Email me at theawesomecosmos@gmail.com, or check out my [CV](https://github.com/awesomecosmos/aayushi-verma-cv), my [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushi-verma), and my [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UClS-R630xWKrukXSDTypAVg), where I often do code walk-throughs. 
+## About Me
 
-## 💻 Tech Skills
+- :woman_technologist: Working full-time as a Research Data Scientist
+- :memo: Studying towards MS in Data Science (Pace University '23)
+- :woman_student: BSc (Hons) in Astrophysics (University of Canterbury '21)
+
+## Connect With Me
+
+:incoming_envelope: theawesomecosmos@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushi-verma) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UClS-R630xWKrukXSDTypAVg)
+
+## Current Work
+
+I am currently learning about Artificial Intelligence and Algorithms!
+
+## Tech Skills
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	
@@ -27,13 +38,15 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-## 📊 GitHub Stats
+
+## GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=awesomecosmos&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=awesomecosmos&theme=midnight-purple&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awesomecosmos&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,html)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/awesomecosmos/repos?time_range=one_year&include_private=True&theme=dark&layout=compact)](https://githubtrends.io)
 
 [![](https://visitcount.itsvg.in/api?id=awesomecosmos&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
