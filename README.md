@@ -13,8 +13,8 @@
 [![CV](https://img.shields.io/badge/-my%20resume-blueviolet)](https://github.com/awesomecosmos/Aayushi-Verma-CV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushi-verma) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UClS-R630xWKrukXSDTypAVg)
-[![arXiv](https://img.shields.io/badge/arXiv-my%20profile-red)](https://arxiv.org/search/?searchtype=author&query=Verma%2C+A+A)
-[![medium](https://img.shields.io/badge/medium-my%20blog%20posts-lightgrey)](https://medium.com/@aayushi_verma)
+[![arXiv](https://img.shields.io/badge/arXiv-journal%20publications-red)](https://arxiv.org/search/?searchtype=author&query=Verma%2C+A+A)
+[![medium](https://img.shields.io/badge/medium-blog%20posts-lightgrey)](https://medium.com/@aayushi_verma)
 
 ## Current Work
 
