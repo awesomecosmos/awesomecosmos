@@ -43,12 +43,35 @@ I am currently learning about Artificial Intelligence and Algorithms!
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+<div>
+<details>
+<summary><b>Click to see a detailed breakdown of my skills!</b></summary>
+ 
+ The list of my skills below is very comprehensive, so to summarize, here are my **top 5 skills**: Python, R, SQL, Git and visualization.
+    
+<br>
+
+| Skill Area | Skills |
+| ------------- |-------------|
+| **Programming** 		    | Python, R, SQL, Latex, Markdown, Matlab, Shell (bash), HTML/CSS |
+| **Packages & Variants**	| Python (numpy, scipy, pandas, scikit-learn, astropy, matplotlib, seaborn), R (Shiny, dplyr, tidyr, readr, stringr), SQL (MySQL, PostgreSQL, sqlite)|
+| **IDEs and Softwares** 	| VS Code, Anaconda (Spyder), RStudio, MySQLWorkbench, PGAdmin, Weka, Neo4j    |
+| **Version Control** 		| Git, Github, Bitbucket  |
+| **Visualization** 		| Tableau, Google Data Studio |
+| **Research Areas** 		| Astrophysics (galaxy evolution and morphology, galactic structure, planetary science, cometary science, stellar structure and evolution), climate modeling, bayesian statistics |
+| **Soft Skills** 		| Technical documentation, oral presentations, poster presentations, academic research skills, collaborations with other people, teams and organizations, mentorship, tutoring, outreach |
+| **Hard Skills** 		| Telescope instrumentation |
+| **Data Science Areas and Techniques** | Machine learning, artificial intelligence |
+
+</details>
+</div>
+
 ## GitHub Stats
 
 <div>
-    <details>
-        <summary><b>Click to see my Github metrics!</b></summary>
-    <br>
+<details>
+<summary><b>Click to see my Github metrics!</b></summary>
+<br>
         
 ![](https://github-readme-stats.vercel.app/api?username=awesomecosmos&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
@@ -59,5 +82,6 @@ I am currently learning about Artificial Intelligence and Algorithms!
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/awesomecosmos/repos?time_range=one_year&include_private=True&theme=dark&layout=compact)](https://githubtrends.io)
 
 [![](https://visitcount.itsvg.in/api?id=awesomecosmos&icon=5&color=6)](https://visitcount.itsvg.in)
-    </details>
+    
+</details>
 </div>
