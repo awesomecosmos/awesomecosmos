@@ -82,6 +82,8 @@ I am currently learning about Artificial Intelligence and Algorithms!
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/awesomecosmos/repos?time_range=one_year&include_private=True&theme=dark&layout=compact)](https://githubtrends.io)
 
 [![](https://visitcount.itsvg.in/api?id=awesomecosmos&icon=5&color=6)](https://visitcount.itsvg.in)
+
+[Check out this really cool 3D skyscraper synth music visualization of my Github acticity in 2022!](https://skyline.github.com/awesomecosmos/2022)
     
 </details>
 </div>
