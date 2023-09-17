@@ -18,7 +18,7 @@
 
 ## Current Work
 
-I am currently learning about Artificial Intelligence and Algorithms!
+I am currently learning about deep learning!
 
 ## Tech Skills
 
