@@ -19,7 +19,7 @@
 
 ## Current Work
 
-I am currently learning about deep learning!
+I am currently learning about [deep learning](https://github.com/awesomecosmos/CS672-Deep-Learning)!
 
 ## Tech Skills
 
