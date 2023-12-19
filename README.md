@@ -3,7 +3,7 @@
 ## About Me 
 
 - :woman_technologist: Working full-time as a Research Data Scientist
-- :memo: Studying towards [MS in Data Science](https://github.com/awesomecosmos/MS-Data-Science) (Pace University '23)
+- :memo: [MS in Data Science](https://github.com/awesomecosmos/MS-Data-Science) (Pace University '23)
 - :woman_student: BSc (Hons) in Astrophysics (University of Canterbury '21)
 
 ## Connect With Me
