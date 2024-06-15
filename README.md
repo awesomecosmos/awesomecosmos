@@ -2,6 +2,7 @@
 
 ## About Me 
 
+- Incoming PhD in Computer Science at UConn!
 - :woman_technologist: Working full-time as a Research Data Scientist
 - :memo: [MS in Data Science](https://github.com/awesomecosmos/MS-Data-Science) (Pace University '23)
 - :woman_student: BSc (Hons) in Astrophysics (University of Canterbury '21)
@@ -56,13 +57,13 @@ I am currently learning about [deep learning](https://github.com/awesomecosmos/C
 | ------------- |-------------|
 | **Programming** 		    | Python, R, SQL, Latex, Markdown, Matlab, Shell (bash), HTML/CSS |
 | **Packages & Variants**	| Python (numpy, scipy, pandas, scikit-learn, astropy, matplotlib, seaborn), R (Shiny, dplyr, tidyr, readr, stringr), SQL (MySQL, PostgreSQL, sqlite)|
-| **IDEs and Softwares** 	| VS Code, Anaconda (Spyder), RStudio, MySQLWorkbench, PGAdmin, Weka, Neo4j    |
-| **Version Control** 		| Git, Github, Bitbucket  |
+| **IDEs and Softwares** 	| VS Code, Anaconda (Spyder), RStudio, MySQLWorkbench, PGAdmin, Weka, Neo4j|
+| **Version Control** 		| Git, Github, Bitbucket, Gitlab |
 | **Visualization** 		| Tableau, Google Data Studio |
-| **Research Areas** 		| Astrophysics (galaxy evolution and morphology, galactic structure, planetary science, cometary science, stellar structure and evolution), climate modeling, bayesian statistics |
+| **Research Areas** 		| Computer Science (machine learning, cybersecurity), Astrophysics (galaxy evolution and morphology, galactic structure, planetary science, cometary science, stellar structure and evolution), climate modeling, bayesian statistics |
 | **Soft Skills** 		| Technical documentation, oral presentations, poster presentations, academic research skills, collaborations with other people, teams and organizations, mentorship, tutoring, outreach |
 | **Hard Skills** 		| Telescope instrumentation |
-| **Data Science Areas and Techniques** | Machine learning, artificial intelligence |
+| **Data Science Areas and Techniques** | Machine learning, artificial intelligence, natural language processing, deep learning, image processing |
 
 </details>
 </div>
@@ -80,7 +81,7 @@ I am currently learning about [deep learning](https://github.com/awesomecosmos/C
 
 [![](https://visitcount.itsvg.in/api?id=awesomecosmos&icon=5&color=6)](https://visitcount.itsvg.in)
 
-[Check out this really cool 3D skyscraper synth music visualization of my Github acticity in 2022!](https://skyline.github.com/awesomecosmos/2022)
+[Check out this really cool 3D skyscraper synth music visualization of my Github activity in 2022!](https://skyline.github.com/awesomecosmos/2022)
     
 </details>
 </div>
