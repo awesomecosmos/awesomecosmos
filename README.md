@@ -2,10 +2,9 @@
 
 ## About Me 
 
-- Incoming PhD in Computer Science at UConn!
-- :woman_technologist: Working full-time as a Research Data Scientist
-- :memo: [MS in Data Science](https://github.com/awesomecosmos/MS-Data-Science) (Pace University '23)
-- :woman_student: BSc (Hons) in Astrophysics (University of Canterbury '21)
+- :woman_technologist: currently a PhD student in Computer Science at [UConn](https://www.cse.uconn.edu/)!
+- :woman_student: [MS in Data Science](https://github.com/awesomecosmos/MS-Data-Science) (Pace University '23)
+- :woman_astronaut: BSc (Hons) in Astrophysics (University of Canterbury '21)
 
 ## Connect With Me
 
@@ -20,7 +19,7 @@
 
 ## Current Work
 
-I am currently learning about [deep learning](https://github.com/awesomecosmos/CS672-Deep-Learning)!
+I am currently learning and researching about adversarial machine learning, biometrics pattern recognition, and graph time-series anomaly detection!
 
 ## Tech Skills
 
