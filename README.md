@@ -19,4 +19,4 @@
 
 ## Current Work
 
-I am currently learning and researching about adversarial machine learning, biometrics pattern recognition, and graph time-series anomaly detection!
+I am currently learning and researching about convolutional neural networks and vision transformers for image processing/computer vision, adversarial machine learning, and biometrics pattern recognition! [Here's some fun memes I made about neural networks!](https://x.com/awesomecosmos1/status/1839632485065322931)
