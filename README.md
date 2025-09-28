@@ -10,13 +10,11 @@
 
 :incoming_envelope: theawesomecosmos@gmail.com
 
-[![CV](https://img.shields.io/badge/-my%20resume-blueviolet)](https://github.com/awesomecosmos/Aayushi-Verma-CV)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20)](https://linkedin.com/in/aayushi-verma) 
-[![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=FF0000&color=FF0000&logoColor=white&label=%20)](https://www.youtube.com/channel/UClS-R630xWKrukXSDTypAVg)
-[![medium](https://img.shields.io/static/v1?message=Medium&logo=medium&labelColor=000000&color=000000&logoColor=white&label=%20)](https://medium.com/@aayushi_verma)
-[![arXiv](https://img.shields.io/static/v1?message=arXiv&logo=arxiv&labelColor=B31B1B&color=B31B1B&logoColor=white&label=%20)](https://arxiv.org/search/?searchtype=author&query=Verma%2C+A+A)
-[![ORCiD](https://img.shields.io/static/v1?message=ORCiD&logo=orcid&labelColor=A6CE39&color=A6CE39&logoColor=white&label=%20)](https://orcid.org/0000-0003-2396-4569)
+[my CV](https://github.com/awesomecosmos/Aayushi-Verma-CV) | [LinkedIn](https://linkedin.com/in/aayushi-verma) | [ORCiD](https://orcid.org/0000-0003-2396-4569) | [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=jlowXNIAAAAJ&sortby=pubdate)
+
+
+[YouTube](https://www.youtube.com/channel/UClS-R630xWKrukXSDTypAVg) | [Medium](https://medium.com/@aayushi_verma) | [BlueSky](https://bsky.app/profile/awesomecosmos1.bsky.social) | [Twitter](https://x.com/awesomecosmos1) | [Instagram](https://www.instagram.com/awesomecosmos)
 
 ## Current Work
 
-I am currently learning and researching about convolutional neural networks and vision transformers for image processing/computer vision, adversarial machine learning, and biometrics pattern recognition! [Here's some fun memes I made about neural networks!](https://x.com/awesomecosmos1/status/1839632485065322931)
+In my PhD research, I'm researching computer vision security by trying to answer the question "Can we make secure computer vision systems?". And by *secure*, I mean robust, trustworthy, explainable, and maybe even provable. My long-term goal is to use the technical skills I'm learning through my computer vision security research, and apply it in the space domain. 
